@@ -30,7 +30,7 @@ export default function App() {
           <input type="checkbox" id="menu-toggle" />
           <label htmlFor="menu-toggle" className="menu-icon">&#9776;</label>
           <ul className="nav-links">
-            <li><Link to="/">Sobre o FPLD</Link></li>
+            <li><Link to="/">Sobre</Link></li>
             <li><Link to="/conscientiza">Conscientização</Link></li>
             <li><Link to="/planeja">Planejamento</Link></li>
             <li><Link to="/implementa">Implementação com Melhoria Contínua</Link></li>
