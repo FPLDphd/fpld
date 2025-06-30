@@ -22,7 +22,7 @@ const Main = () => {
       <section className="main-section" id="overview">
         <h2>Estrutura do FPLD</h2>       
         <p>O FPLD foi construído a partir das melhores práticas da literatura e seus desdobramentos, visando encontrar soluções para superar barreiras que impedem a evolução da LD e facilitar o aproveitamento de dados para gerar valor.
-        Sua estrutura foi inspirada no Data Management Maturity Model (citar DMMM?), modelo de referência para melhoria de processos de gestão de dados, e é composta por categorias que englobam áreas de processo, descritas por sete dimensões, conforme ilustrado abaixo:     
+        Sua estrutura é composta por categorias que englobam áreas de processo, descritas por sete dimensões, conforme ilustrado abaixo:     
         </p>
         <img src={EstruturaFPLDImage} alt="EstruturaFPLD" style={{ maxWidth: '100%', height: 'auto', marginBottom: '1rem' }} />
          <p>
