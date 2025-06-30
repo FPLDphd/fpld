@@ -1,6 +1,6 @@
 # Framework para Promoção da Literacia em Dados (FPLD)
 
-Estas páginas apresentam um **Framework para Promoção da Literacia em Dados** estruturado e extensível, projetado para avaliar as capacidades organizacionais em gestão de dados, governança, infraestrutura e cultura de dados. A estrutura pode ser utilizada por organizações dos setores público e privado para avaliar seu estado atual e definir estratégias de melhoria.
+Estas páginas apresentam um **Framework para Promoção da Literacia em Dados** como parte de uma pesquisa de doutorado, com o objetivo de estimular, apoiar e estruturar ações que desenvolvam e disseminem a literacia em dados (LD) para tracionar a geração de valor com o uso de dados dentro das organizações. Essa proposta  visa compreender e aperfeiçoar esse processo, como uma jornada incremental para a transformação analítica organizacional, com a visão de que identificar seus desafios permite antecipar ações que minimizem seus riscos.
 
 ---
 
