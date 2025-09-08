@@ -93,7 +93,7 @@ const Pessoasetica = () => {
               <h2>{dim.title}</h2>
               <p>{dim.description}</p>
 
-              <p><strong>Escolha uma das dimensões (descritas aqui) abaixo para explorar essa área de processo:</strong></p>
+              <p><strong>Escolha uma das dimensões abaixo para explorar essa área de processo:</strong></p>
               <div className="level-selector">
                 {dim.levels.map((level, index) => (
                   <button

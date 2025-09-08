@@ -10,7 +10,7 @@ const dimensions = [
     levels: [
         {
         title: 'Finalidade',
-        content: 'Essa área deve fornecer suporte \n contínuo e especializado para a implementação e prática da metodologia ágil na promoção da LD na organização, garantindo que as equipes possam aproveitar ao máximo os benefícios da agilidade, como maior eficiência, adaptabilidade e entrega contínua de valor facilitando a adoção ao uso de dados com a evolução da LD.',
+        content: 'Essa área deve fornecer suporte contínuo e especializado para a implementação e prática da metodologia ágil na promoção da LD na organização, garantindo que as equipes possam aproveitar ao máximo os benefícios da agilidade, como maior eficiência, adaptabilidade e entrega contínua de valor facilitando a adoção ao uso de dados com a evolução da LD.',
       },
       {
         title: 'Metas',
@@ -90,7 +90,7 @@ const Agil = () => {
               <h2>{dim.title}</h2>
               <p>{dim.description}</p>
 
-              <p><strong>Escolha uma das dimensões (descritas aqui) abaixo para explorar essa área de processo:</strong></p>
+              <p><strong>Escolha uma das dimensões abaixo para explorar essa área de processo:</strong></p>
               <div className="level-selector">
                 {dim.levels.map((level, index) => (
                   <button
