@@ -12,7 +12,8 @@ const Monitora = () => {
       <header className="main-header">
         <h1>Categoria do FPLD: PROCESSOS DE SUPORTE E MELHORIA CONTÍNUA</h1>
         <p>
-        xxx Processos de Suporte e Melhoria Contínua.
+        O processo de suporte e melhoria contínua é diferente por permear todas as demais categorias. Explica como a área de processo será monitorada e aprimorada ao longo do tempo. 
+        <br /> Isso inclui práticas para <i>feedback</i>, análise de desempenho e implementação de melhorias com metodologia ágil.
         </p>
       </header>
 

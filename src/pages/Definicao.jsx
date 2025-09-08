@@ -14,7 +14,7 @@ const dimensions = [
       },
       {
         title: 'Metas',
-        content: 'É fundamental ensinar o conceito de LD para despertar o interesse por seu desenvolvimento em toda a organização, tanto de forma <em>top-down</em> quanto <em>bottom-up</em>, destacando sua importância e necessidade, além de estabelecer uma linguagem comum para a aprendizagem do uso de dados orientado a valor.',
+        content: 'É fundamental ensinar o conceito de LD para despertar o interesse por seu desenvolvimento em toda a organização, tanto de forma top-down quanto bottom-up, destacando sua importância e necessidade, além de estabelecer uma linguagem comum para a aprendizagem do uso de dados orientado a valor.',
       },
       {
         title: 'Métricas',
@@ -34,7 +34,7 @@ const dimensions = [
       },
       {
         title: 'Pontos de Atenção',
-        content: 'O apoio da liderança é o alicerce que garante a estabilidade e o sucesso de qualquer iniciativa de transformação analítica. Assim, é fundamental que os líderes abram espaço na agenda da organização e mostrem interesse na promoção e evolução da LD. A falta de apoio pode sinalizar resistência à mudança e dificultar a implementação do \textit{framework}, sugerindo a necessidade de reconsiderar se é o momento certo para investir no projeto.',
+        content: 'O apoio da liderança é o alicerce que garante a estabilidade e o sucesso de qualquer iniciativa de transformação analítica. Assim, é fundamental que os líderes abram espaço na agenda da organização e mostrem interesse na promoção e evolução da LD. A falta de apoio pode sinalizar resistência à mudança e dificultar a implementação do FPLD, sugerindo a necessidade de reconsiderar se é o momento certo para investir no projeto.',
       },
     ],
   },

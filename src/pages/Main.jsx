@@ -21,8 +21,8 @@ const Main = () => {
       </section>
       <section className="main-section" id="overview">
         <h2>Estrutura do FPLD</h2>       
-        <p>O FPLD foi construído a partir das melhores práticas da literatura e seus desdobramentos, visando encontrar soluções para superar barreiras que impedem a evolução da LD e facilitar o aproveitamento de dados para gerar valor.
-        Sua estrutura é composta por categorias que englobam áreas de processo, descritas por sete dimensões, conforme ilustrado abaixo:     
+        <p>O FPLD foi construído a partir das melhores práticas da literatura, visando encontrar soluções para superar barreiras que impedem a evolução da LD e facilitar o aproveitamento de dados para gerar valor em organizações.
+        Sua estrutura é composta por categorias que englobam áreas de processo, descritas por sete dimensões, conforme figura abaixo:     
         </p>
         <img src={EstruturaFPLDImage} alt="EstruturaFPLD" style={{ maxWidth: '100%', height: 'auto', marginBottom: '1rem' }} />
          <p>
@@ -34,7 +34,7 @@ const Main = () => {
          <p>O FPLD integra as categorias Conscientização, Planejamento e Implementação com Melhoria Contínua, que consistem em conjuntos de áreas de processos independentes que ajudam a estabelecer definições, metas e práticas, além de permitir a execução dessas práticas e a construção de capacidades. 
           A quarta categoria denominada Processos de Suporte e Melhoria Contínua deve auxiliar a adoção, execução e foco nas entregas de valor do FPLD. <br /><br />
           
-          A figura a seguir mostra uma visão geral do FPLD, com as categorias, áreas de processo e as expectativas e necessidades associadas a cada uma delas:
+          A figura a seguir apresenta uma visão geral do FPLD, contemplando as categorias, acompanhadas de suas áreas de processo, expectativas e necessidades:
         </p>
         <img src={FPLDImage} alt="FPLD" style={{ maxWidth: '100%', height: 'auto', marginBottom: '1rem' }} />
          <p>
@@ -42,6 +42,9 @@ const Main = () => {
         
         A seguir, vamos explorar cada categoria do FPLD em detalhes com o objetivo de elucidar sua estrutura e funcionamento.
         </p>
+
+        <h2>Referência:</h2>
+        ZACHMAN, J. A. A framework for information systems architecture. IBM Systems Journal, v. 38, n. 2/3, p. 454-470, 1999. ISSN 0018-8670.
       </section>
     </div>
   );

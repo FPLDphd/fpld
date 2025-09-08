@@ -10,31 +10,31 @@ const dimensions = [
     levels: [
       {
         title: 'Finalidade',
-        content: 'xxx.',
+        content: 'Este item é crítico porque serve como base estruturante para outros componentes, envolvendo dependências que impactam diretamente o sucesso das demais iniciativas. Por isso é preciso esclarecer e reforçar que a disponibilidade de dados, tecnologias, processos e políticas é essencial para atender às necessidades específicas de cada persona, pois, caso contrário, restrições podem comprometer as entregas de valor orientadas por dados na organização. É importante estabelecer e fortalecer parcerias com áreas responsáveis por esses recursos, como Governança de Dados, Engenharia de Dados e Recursos Humanos, colaborando para reduzir restrições existentes, mas sem assumir essa responsabilidade diretamente.  Se necessário, é válido apoiar a avaliação da disponibilidade dos recursos para todas as personas, a fim de obter uma visão clara e abrangente das necessidades e lacunas, identificando-as como oportunidades de melhoria.',
       },
       {
         title: 'Metas',
-        content: 'xxx.',
+        content: 'É essencial evidenciar as necessidades de recursos e as restrições relacionadas a dados, tecnologia, processos e políticas, facilitando assim a tomada de ações corretivas e a priorização de projetos e investimentos necessários.',
       },
       {
         title: 'Métricas',
-        content: 'XXX.',
+        content: 'O nível de satisfação das diferentes personas de dados em relação aos recursos disponíveis e ao apoio organizacional para a evolução da LD e do uso de dados, assim como a satisfação dos profissionais responsáveis por prover esses recursos, constitui um indicador essencial para consolidar uma relação de benefício mútuo no ambiente organizacional. Além disso, a alocação de investimentos na promoção da LD pode configurar-se como métrica estratégica, em alguns casos confidencial, a ser acompanhada pela liderança e pelos responsáveis diretos.',
       },
       {
         title: 'Framework Zachman',
-        content: 'XXX.',
+        content: 'O “QUEM” é reforçado neste item na construção de parcerias e reforço das responsabilidades de cada área. A avaliação das necessidades e restrições descreve “O QUÊ” precisa ser feito e contribui para “COMO” priorizar.',
       },
       {
         title: 'Exemplos, Ideias de Atividades e Fatores Críticos',
-        content: 'xxx.',
+        content: 'Estabelecer fortes parcerias com responsáveis pelos recursos e contribuir para melhorias com base nas métricas do programa de LD e feedbacks dos usuários, além de aproveitar a proximidade com diferentes personas de dados. O Patrocinador deve exercer grande influência para priorização de tempo e investimentos necessários para a evolução da LD, lembrando que devem ser de longo prazo.',
       },
       {
         title: 'Perguntas',
-        content: 'XXX',
+        content: 'Para entender o nível de satisfação e necessidades em torno do uso de dados, as seguintes perguntas devem ser respondidas por todos os profissionais da organização: Quais barreiras impedem o uso sistemático e eficaz dos dados nesta organização? Qual é o nível de satisfação dos profissionais com o acesso aos dados necessários para suas funções? Os dados necessários estão disponíveis com consistência, precisão, compreensão e completude? Como avaliam a infraestrutura associada? A tecnologia é confiável e adequada para cada função e necessidade? Há cobrança pelo uso ético dos dados e conformidade com regulamentações? Quais políticas a organização adota para garantir o uso ético e regulamentado dos dados?  A instituição oferece apoio financeiro para o programa de LD?',
       },
       {
         title: 'Pontos de Atenção',
-        content: 'XXX.',
+        content: 'A organização deve priorizar o programa de Governança de Dados para potencializar os benefícios da LD na organização. E a contribuição para melhoria dos recursos sem se responsabilizar diretamente por tal compromisso é desafiador, mas fundamental para manter o foco nas pessoas e entregas de valor com dados para a organização.',
       },
     ],
   },

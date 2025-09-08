@@ -36,14 +36,13 @@ const Main = () => {
         </a>
 
         <p>
-        Ou, se preferir:
+        Caso queira marcar uma reunião para preenchimento guiado ou tenha alguma dúvida, estou disponível pelo e-mail: 
         </p>
-        <a class="botao" href="https://calendar.app.google/FjW3Sm6VEw6vsKm36" target="_blank">
-          Marque uma reunião comigo, se tiver dúvidas
-        </a>
+        
         <a class="botao" href="mailto:jacqueline.david.planas@usp.br" target="_blank">
-          Ou fale comigo em jacqueline.david.planas@usp.br
+         jacqueline.david.planas@usp.br
         </a>
+  
 
       </section>
     </div>

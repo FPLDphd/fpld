@@ -10,15 +10,15 @@ const dimensions = [
     levels: [
       {
         title: 'Finalidade',
-        content: 'Descrever o processo de uso dos dados de forma apropriada (ou desejada) de acordo com a infraestrtura, processos e políticas da organização, percorrendo todas as etapas desde a clareza do problema com o propósito de uso dos dados até a entrega de valor emlinguagem comum, envolvendo conhecimento técnico e de negócio.',
+        content: 'Descrever o processo de uso dos dados de forma apropriada (ou desejada) de acordo com a infraestrutura, processos e políticas da organização, percorrendo todas as etapas desde a clareza do problema com o propósito de uso dos dados até a entrega de valor em linguagem comum, envolvendo conhecimento técnico e de negócio.',
       },
       {
         title: 'Metas',
-        content: 'Entender as etapas e a complexidade do processo de uso de dados para assegurar entregas de valor, aumentar a conscientização sobre a importância da LD e seu impacto positivo nos processos de negócios e na tomada de decisões, encorajar os profissionais no seu desenvolvimento. Além disso, busca-se fomentar a colaboração e o trabalho em equipes multifuncionais, garantindo a fluidez da cadeia de valor e a clareza sobre a necessidade de envolvimento de todas as funções e perfis nas diferentes etapas para alcançar resultados efetivos com o uso de dados.',
+        content: 'Entender as etapas e a complexidade do processo de uso de dados para assegurar entregas de valor, aumentar a conscientização sobre a importância da LD e seu impacto positivo nos processos de negócios e tomadas de decisões, encorajando os profissionais para o seu desenvolvimento. Além disso, busca-se fomentar a colaboração e o trabalho em equipes multifuncionais, garantindo a fluidez da cadeia de valor e a clareza sobre a necessidade de envolvimento de todas as funções e perfis nas diferentes etapas para alcançar resultados efetivos com o uso de dados.',
       },
       {
         title: 'Métricas',
-        content: 'Uma métrica interessate é a quantidade de exemplos concretos de entregas de valor documentadas na organização, ou mesmo o número de grupos multifuncionais que estão neste percurso, bem como acompanhar o status e tempo dessas jornadas com o desejo de torná-los mais frequentes e ágeis com a promoção e evolução efetiva da LD.',
+        content: 'Uma métrica interessante é a quantidade de exemplos concretos de entregas de valor orientadas por dados documentadas na organização, ou mesmo o número de grupos multifuncionais que estão neste percurso, bem como acompanhar o status e tempo dessas jornadas com o desejo de torná-las mais frequentes e ágeis com a promoção e evolução efetiva da LD.',
       },
       {
         title: 'Framework Zachman',
@@ -26,11 +26,11 @@ const dimensions = [
       },
       {
         title: 'Exemplos, Ideias de Atividades e Fatores Críticos',
-        content: 'Desenhar a jornada desejada ou ideal de uso de dados na organização facilita a conscientização e possibilita uma disseminação mais autoexplicativa e simples. Por exemplo, a Jornada de Competências da LD definida na Seção \ref{subsec:competLD} ilustrada na Figura \ref{fig:jornadaLD}. Acrescentar ferramentas disponíveis e links para políticas e processos também enriquece essa iniciativa. Todos devem se identificar ou atuar em alguma etapa dessa jornada em uma organização \textit{data-driven}. Outra sugestão é contar uma história que descreva com detalhes a jornada de uso de dados na organização, inclusive com exemplos de entregas de valor.',
+        content: 'Desenhar a jornada desejada ou ideal de uso de dados na organização facilita a conscientização e possibilita uma disseminação mais autoexplicativa e simples. Acrescentar ferramentas disponíveis e links para políticas e processos também enriquece essa iniciativa. Todos devem se identificar ou atuar em alguma etapa dessa jornada em uma organização orientada por dados (data-driven). Outra sugestão é contar uma história que descreva com detalhes a jornada de uso de dados na organização, inclusive com exemplos de entregas de valor.',
       },
       {
         title: 'Perguntas',
-        content: 'As seguintes perguntas podem garantir entendimento da cadeia de valor de dados e motivação a essa exploração: (i) conseguimos citar exemplos concretos de uso de dados com entregas de valor nessa organização? (ii) quais as etapas percorridas para alcança-lo? (iii) oce falhamos na tentativa de entregarmos valor com o uso de dados ao percorrer essa cadeia de valor? (iv) concordamos que o uso de dados leva a mudanças na prática profissional? (v) Entendem a importância de percorrer essa jornada?',
+        content: 'As seguintes perguntas podem garantir entendimento da cadeia de valor de dados e motivação a essa exploração: (i) conseguimos citar exemplos concretos de uso de dados com entregas de valor nessa organização? (ii) quais as etapas percorridas para alcança-lo? (iii) onde falhamos na tentativa de entregarmos valor com o uso de dados ao percorrer essa cadeia de valor? (iv) concordamos que o uso de dados leva a mudanças na prática profissional? (v) Entendem a importância de percorrer essa jornada?',
       },
       {
         title: 'Pontos de Atenção',

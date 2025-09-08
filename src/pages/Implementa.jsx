@@ -10,31 +10,31 @@ const dimensions = [
     levels: [
       {
         title: 'Finalidade',
-        content: 'Nesse item deve-se alinhar uma definição comum de LD dentro do contexto da organização para promover a importância do uso de dados orientado a valor. Isso implica na criação de uma compreensão clara, motivadora da LD e na sua disseminação, engajando toda a organização em torno do tema, tanto nos níveis estratégicos quanto operacionais, envolvendo líderes patrocinadores.',
+        content: 'Assegurar que a execução seja sustentada por práticas que favoreçam colaboração adaptável, comunicação constante e participação ativa de todas as áreas envolvidas. Com rituais como dailys, plannings, reviews e retrospectivas, cria-se um ciclo de aprendizado permanente, que possibilita identificar obstáculos, mensurar avanços e otimizar processos. Além disso, essa abordagem viabiliza a rápida detecção de lacunas de recursos, sejam dados, infraestrutura, financeiros ou humanos, permitindo o engajamento de patrocinadores e parceiros na busca conjunta de soluções.',
       },
       {
         title: 'Metas',
-        content: 'É fundamental ensinar o conceito de LD para despertar o interesse por seu desenvolvimento em toda a organização, tanto de forma <em>top-down</em> quanto <em>bottom-up</em>, destacando sua importância e necessidade, além de estabelecer uma linguagem comum para a aprendizagem do uso de dados orientado a valor.',
+        content: 'O objetivo é impulsionar a fluência em dados, aumentando a capacidade dos profissionais de utilizarem dados de forma eficaz em suas funções. Isso resultará em entregas de valor mais rápidas e ágeis, promovendo a colaboração entre os times de dados, tecnologia, negócios e recursos humanos, com o apoio dos patrocinadores do programa. Acompanhar de perto as métricas e indicadores de desempenho definidos no planejamento é fundamental para garantir que as entregas estejam alinhadas com o esperado e propor ajustes quando necessário.',
       },
       {
         title: 'Métricas',
-        content: 'Recomenda-se medir o alcance da divulgação pela quantidade e percentual do total de profissionais, incluindo líderes e não líderes, que participam das reuniões sobre LD. A frequência das reuniões realizadas para a divulgação do conceito de LD na organização também deve ser monitorada. Além disso, a conscientização e a aprendizagem podem ser avaliadas pelo percentual de acertos em um quiz aplicado em tempo real durante as reuniões.',
+        content: 'As métricas de gestão de projetos, como percentual de iniciativas da promoção da LD implementadas conforme o esperado para a sprint, além das métricas de desempenho e análises de melhoria de todas as áreas de processo priorizadas. O nível de satisfação dos participantes é outra métrica que também deve ser monitorado e utilizado para melhorias. E a evolução do nível de LD dos envolvidos deve ser avaliada dependendo das iniciativas realizadas.',
       },
       {
         title: 'Framework Zachman',
-        content: 'Definição comum da LD disseminada esclarece seu conceito, contemplando “O QUÊ”. A clareza da sua importância e necessidade contribuem para o “POR QUÊ” da evolução da LD.',
+        content: 'Na implementação da estratégia ágil o “O QUÊ”, o “QUEM”, o “COMO”, o “ONDE” e o “QUANDO” permanecem em foco constante, sendo revisados de maneira conjunta e coordenada.',
       },
       {
         title: 'Exemplos, Ideias de Atividades e Fatores Críticos',
-        content: ' Para promover a conscientização ativa sobre o conceito de LD na organização, é importante apresentá-lo de forma clara e envolvente, por exemplo, mostrando a geração de dados da empresa por mês, dia ou minuto. Além disso, recomenda-se incluir uma autoavaliação do nível de LD como parte da dinâmica da reunião, o que promove tanto a aprendizagem quanto a mensuração do conhecimento. Outra sugestão é apresentar um ranking das empresas mais valiosas, destacando a importância do uso de dados para a rentabilidade e sua relação com a LD.',
+        content: 'É o momento de focar nas prioridades definidas por sprint, monitorar os resultados, comunicar à organização e fazer ajustes sempre que necessário. Promover a LD como eixo estruturante, de modo que as entregas de valor baseadas em dados se expandam de forma contínua e sustentável. É essencial defender os princípios planejados, orientar as ações de forma colaborativa e em equipe, fazer os ajustes necessários e, ao mesmo tempo, celebrar as conquistas, fortalecendo a confiança nos times. A promoção da LD é um sucesso quando todos os profissionais da organização, de diferentes áreas e perfis, reconhecem a importância do uso de dados, sabem qual é sua parte e a cumprem com clareza do seu propósito. Em qualquer organização rentável e competitiva da Era Digital, os dados com uso intencional devem ser como o sangue que corre nas veias para manter o corpo, ou melhor, a organização viva, forte e crescendo na direção desejada. O nível de LD deve ser reavaliado quando pertinente.',
       },
       {
         title: 'Perguntas',
-        content: 'As perguntas a serem feitas são: Você conhece o termo LD ou DL em inglês? Como descreveria a LD? Sabe qual é o seu nível atual de LD? E qual é o nível de maturidade analítica da organização?',
+        content: 'Algumas perguntas valem ser repetidas com frequência aos envolvidos na implementação: Como podemos aprimorar a implementação e evolução da promoção da LD na organização? Quais são as oportunidades e os recursos envolvidos? De que maneira iremos sustentar a utilização de dados e a promoção da LD em nossa organização? A motivação para a organização utilizar dados e priorizar a promoção da LD continua relevante diante das mudanças organizacionais e dos fatores econômicos?',
       },
       {
         title: 'Pontos de Atenção',
-        content: 'O apoio da liderança é o alicerce que garante a estabilidade e o sucesso de qualquer iniciativa de transformação analítica. Assim, é fundamental que os líderes abram espaço na agenda da organização e mostrem interesse na promoção e evolução da LD. A falta de apoio pode sinalizar resistência à mudança e dificultar a implementação do \textit{framework}, sugerindo a necessidade de reconsiderar se é o momento certo para investir no projeto.',
+        content: 'Se necessário, com o apoio da liderança é possível criar senso de urgência de uso dos dados, e não imposição, como catalisador para a ação.',
       },
     ],
   },
@@ -62,7 +62,9 @@ const Implementa = () => {
       <header className="main-header">
         <h1>Categoria do FPLD: IMPLEMENTAÇÃO COM MELHORIA CONTÍNUA</h1>
         <p>
-          XXX IMPLEMENTAÇÃO COM MELHORIA CONTÍNUA.
+        A fase de planejamento estabeleceu as bases do projeto, mas é na implementação que o verdadeiro valor se concretiza. 
+        Este é o momento de transformar estratégias em ação, executando com energia e consistência as prioridades definidas. 
+        A adoção da metodologia ágil orienta essa etapa, pois, a cada <i>sprint</i>, a promoção da LD é conduzida de forma estruturada e incremental, permitindo alcançar os resultados esperados enquanto se garante a melhoria contínua por meio de ajustes dinâmicos e alinhados às necessidades organizacionais.
         </p>
       </header>
 
