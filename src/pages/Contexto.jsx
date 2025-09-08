@@ -63,7 +63,7 @@ const Contexto = () => {
         <h1>Categoria do FPLD: PLANEJAMENTO</h1>
         <p>
           O sucesso na promoção da LD depende de um planejamento abrangente e alinhado aos objetivos estratégicos da organização, com foco na remoção de obstáculos e identificação de pontos críticos. 
-          Após a conscientização sobre a importância e complexidade da LD, esta etapa propõe explorar pilares essenciais — como pessoas, ética, recursos, contexto, aprendizagem e comunicação — para construir uma estratégia sólida. 
+          <br /> <br />Após a conscientização sobre a importância e complexidade da LD, esta etapa propõe explorar pilares essenciais - como pessoas, ética, recursos, contexto, aprendizagem e comunicação - para construir uma estratégia sólida. 
           A adoção de metodologias ágeis fortalece esse processo ao permitir uma implementação gradual, com entregas de valor incremental e foco prático, seguindo o princípio de “sonhe grande e comece pequeno”.
          </p>
       </header>
